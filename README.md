@@ -1,0 +1,1 @@
+Projekt dwuosiowej platformy stabilizującej o napędzie śmigłowym. System został opracowany jako część pracy inżynierskiej na kierunku Automatyka i Robotyka Stosowana (Politechnika Warszawska). Projekt ma charakter badawczo-edukacyjny i skupia się na implementacji algorytmów sterowania PID oraz fuzji danych z czujników IMU.
